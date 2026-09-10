@@ -1,0 +1,21 @@
+{
+  "generated": "2026-09-09",
+  "note": "SKU -> filename under MODELS_BASE_URL (see gym-planner.html). Not read by the app yet (it derives the filename from GLB_MODELS directly) -- this is reference/inventory metadata for future tooling (e.g. an ingestion script for new models).",
+  "models": {
+    "DS-401": "DS-401.glb",
+    "DS-411": "DS-411.glb",
+    "DS-415": "DS-415.glb",
+    "DS-416": "DS-416.glb",
+    "DS-418": "DS-418.glb",
+    "DS-419": "DS-419.glb",
+    "DS-425": "DS-425.glb",
+    "DS-427": "DS-427.glb",
+    "DS-429": "DS-429.glb",
+    "DS-430": "DS-430.glb",
+    "DS-431": "DS-431.glb",
+    "DS-434": "DS-434.glb",
+    "DS-450": "DS-450.glb",
+    "EC-201": "EC-201.glb",
+    "EC-202": "EC-202.glb"
+  }
+}
